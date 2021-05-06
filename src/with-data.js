@@ -28,3 +28,4 @@ const withData = (WrappedComponent) => {
 };
 
 export default withData;
+//
